@@ -13,3 +13,6 @@
 Teammate's repo: https://github.com/Krutarth-P/ECE444-F2022-Lab1
 ![Screenshot of the commit you made to your teammate's repo](/images/Activity4_0.jpg)
 ![Screenshot of the commit your teammate made to your repo](/images/Activity4_1.jpg)
+
+## Activity 5
+![Screenshot of the rebase command and output](/images/Activity5.jpg)
