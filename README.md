@@ -23,3 +23,7 @@ EP Repo: https://github.com/mshah0722/ECE444-F2022-EP
 ## Activity 7
 ![Screenshot of the rebase command and output](/images/Activity7_0.jpg)
 ![Screenshot of the updated home page with the new title](/images/Activity7_1.jpg)
+
+## Activity 8
+![Screenshot of the rebase command and output](/images/Activity8_0.jpg)
+![Screenshot of the updated new tab page on the navigation bar](/images/Activity8_1.jpg)
