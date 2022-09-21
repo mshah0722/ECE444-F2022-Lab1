@@ -19,3 +19,7 @@ Teammate's repo: https://github.com/Krutarth-P/ECE444-F2022-Lab1
 
 ## Activity 6
 EP Repo: https://github.com/mshah0722/ECE444-F2022-EP
+
+## Activity 7
+![Screenshot of the rebase command and output](/images/Activity7_0.jpg)
+![Screenshot of the updated home page with the new title](/images/Activity7_1.jpg)
