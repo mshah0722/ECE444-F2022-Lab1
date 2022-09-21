@@ -16,3 +16,6 @@ Teammate's repo: https://github.com/Krutarth-P/ECE444-F2022-Lab1
 
 ## Activity 5
 ![Screenshot of the rebase command and output](/images/Activity5.jpg)
+
+## Activity 6
+EP Repo: https://github.com/mshah0722/ECE444-F2022-EP
